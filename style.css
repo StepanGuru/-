@@ -1,0 +1,53 @@
+body {
+    background: #f8f8f8;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.menu li {
+    font-style: italic;
+    font-size: 20px;
+    list-style-type: none;
+}
+.menu li a {
+    color: #8B00FF;
+}
+.menu li a:hover {
+    color: #ff4a4a;
+}
+.zagl {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+.kropis {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.podrobn_opis {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.vvod {
+    height: 15px;
+}
+img {
+    border: 2px solid black;
+}
+a:hover {
+    color: #ff4a4a;
+}
+/* .GlImg {
+    картинка по центру
+} */
+li {
+    display: inline;
+}
+.block {
+    display: inline;
+}
